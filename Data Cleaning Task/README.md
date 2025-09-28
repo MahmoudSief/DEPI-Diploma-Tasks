@@ -9,8 +9,8 @@ This project demonstrates data cleaning, handling missing values, and detecting/
 - Export cleaned dataset
 
 ## Deliverables
-- Jupyter Notebook: `student_data_cleaning.ipynb`
-- Cleaned Dataset: `cleaned_students.csv`
+- Jupyter Notebook: `Student Data.ipynb`
+- Cleaned Dataset: `final_students.csv`
 
 ## Tools Used
 - Python (pandas, numpy, seaborn, matplotlib)
