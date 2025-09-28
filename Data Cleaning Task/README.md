@@ -9,7 +9,7 @@ This project demonstrates data cleaning, handling missing values, and detecting/
 - Export cleaned dataset
 
 ## Deliverables
-- Jupyter Notebook: `Student Data.ipynb`
+- Jupyter Notebook: `Student Dataset.ipynb`
 - Cleaned Dataset: `final_students.csv`
 
 ## Tools Used
